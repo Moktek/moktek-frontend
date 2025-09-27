@@ -1,2 +1,1 @@
-// Optional interactivity
-console.log("Welcome to MokTek Limited!");
+console.log("MokTek Limited site loaded successfully.");
